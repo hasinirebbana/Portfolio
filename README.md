@@ -1,29 +1,83 @@
-# Portfolio
+# 🌐 Personal Portfolio Website
 
-Portfolio website built to highlight my journey
+<p align="center">
 
-## About Me
-Welcome to my portfolio! This is a curated collection of my projects, skills, and experiences as a developer. I'm passionate about creating elegant solutions to complex problems and continuously learning new technologies.
+<a href="https://portfolio-seven-rosy-90.vercel.app/">
+    <img src="https://img.shields.io/badge/VIEW%20LIVE-1e293b?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
 
-## Featured Projects
-Here you'll find a selection of my best work, showcasing:
-- **Web Development** - Full-stack applications and responsive designs
-- **Problem Solving** - Algorithms and data structure implementations
-- **Open Source Contributions** - Community-driven projects
-- **Technical Expertise** - Diverse tech stack and frameworks
+<a href="https://github.com/hasinirebbana/Portfolio">
+    <img src="https://img.shields.io/badge/GITHUB-a3e635?style=for-the-badge&logo=github&logoColor=black">
+</a>
 
-## Skills & Technologies
-- **Languages:** JavaScript, Python, Java, TypeScript
-- **Frontend:** React, HTML5, CSS3, Responsive Design
-- **Backend:** Node.js, Express, RESTful APIs
-- **Tools & Platforms:** Git, GitHub, VS Code, Docker
-
-## Get in Touch
-I'm always interested in discussing new projects, ideas, and opportunities. Feel free to reach out if you'd like to collaborate or chat!
-
-- **GitHub:** [@hasinirebbana](https://github.com/hasinirebbana)
-- **Email:** [Contact me]
+</p>
 
 ---
 
-*Last updated: May 2026*
+## 📌 About The Project
+
+A modern and responsive personal portfolio website built to showcase my:
+
+- Technical Skills
+- Projects
+- Certifications
+- Achievements
+- Education
+- Contact Information
+
+The portfolio reflects my journey.
+
+---
+
+## 🚀 Features
+
+- Responsive Modern UI
+- Smooth Scrolling Navigation
+- Hero Section
+- About Me Section
+- Education Timeline
+- Skills Showcase
+- Projects Section
+- Certifications & Achievements
+- Contact Section
+- Social Media Integration
+- Hover Animations & Effects
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Libraries & Tools
+- Font Awesome
+- Google Fonts
+- VS Code
+- Git & GitHub
+
+---
+
+
+
+## 🔗 Live Website
+
+🌍 https://portfolio-seven-rosy-90.vercel.app/
+
+---
+
+## 📬 Contact
+
+- 📧 Email: hasinir610@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id
+- 💻 GitHub: https://github.com/hasinirebbana
+
+---
+
+
+
+Aspiring Software Developer passionate about building scalable applications and leveraging AI-driven solutions to solve real-world problems.
+
+---
