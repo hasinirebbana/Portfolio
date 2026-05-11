@@ -68,13 +68,6 @@ The portfolio reflects my journey.
 
 ---
 
-## 📬 Contact
-
-- 📧 Email: hasinir610@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/your-linkedin-id
-- 💻 GitHub: https://github.com/hasinirebbana
-
----
 
 
 
