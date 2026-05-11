@@ -6,9 +6,6 @@
     <img src="https://img.shields.io/badge/VIEW%20LIVE-1e293b?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
-<a href="https://github.com/hasinirebbana/Portfolio">
-    <img src="https://img.shields.io/badge/GITHUB-a3e635?style=for-the-badge&logo=github&logoColor=black">
-</a>
 
 </p>
 
