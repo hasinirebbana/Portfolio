@@ -2,7 +2,7 @@
 
 <p align="center">
 
-<a href="https://portfolio-seven-rosy-90.vercel.app/">
+<a href="https://portfolio-hasini.vercel.app/">
     <img src="https://img.shields.io/badge/VIEW%20LIVE-1e293b?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
