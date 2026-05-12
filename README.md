@@ -59,12 +59,6 @@ The portfolio reflects my journey.
 
 
 
-## 🔗 Live Website
-
-🌍 https://portfolio-seven-rosy-90.vercel.app/
-
----
-
 
 
 
